@@ -38,7 +38,6 @@ import org.opennms.features.topology.api.HasExtraComponents;
 import org.opennms.netmgt.dao.AlarmRepository;
 
 import com.vaadin.data.Container;
-import com.vaadin.data.Container.ItemSetChangeEvent;
 import com.vaadin.ui.AbstractSelect;
 import com.vaadin.ui.Button;
 import com.vaadin.ui.Component;
@@ -64,6 +63,7 @@ public class AlarmTable extends SelectionAwareTable implements HasExtraComponent
 
 		public CheckboxButton(String string) {
 			super(string);
+			setColumnCollapsingAllowed(false);
 			addListener(new ClickListener() {
 
 				private static final long serialVersionUID = 4351558084135658129L;
@@ -174,10 +174,8 @@ public class AlarmTable extends SelectionAwareTable implements HasExtraComponent
 	 *  Leave OnmsDaoContainer without generics; the Aries blueprint code cannot match up
 	 *  the arguments if you put the generic types in.
 	 */
-	@SuppressWarnings("unchecked")
 	public AlarmTable(final String caption, final OnmsDaoContainer container, final AlarmRepository alarmRepo) {
 		super(caption, container);
-
 		m_alarmRepo = alarmRepo;
 
 		m_ackCombo = new NativeSelect();
@@ -193,7 +191,7 @@ public class AlarmTable extends SelectionAwareTable implements HasExtraComponent
 		m_submitButton.setCombo(m_ackCombo);
 
 	}
-
+	
 	@Override
 	public void containerItemSetChange(Container.ItemSetChangeEvent event) {
 		for (ItemSetChangeListener listener : m_itemSetChangeListeners ) {
