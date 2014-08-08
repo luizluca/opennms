@@ -572,7 +572,7 @@
 
     </descr>
     <logmsg dest='logndisplay'>System peak power sensor has detected a new peak value.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Normal</severity>
   </event>
 <event>
     <mask>
@@ -866,7 +866,7 @@
 
     </descr>
     <logmsg dest='logndisplay'>System software event has occurred.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Normal</severity>
   </event>
 <event>
 	<mask>
@@ -5009,7 +5009,7 @@ for its AC power switch has been set to non-redundant.&lt;/p&gt;&lt;table&gt;
 
     </descr>
     <logmsg dest='logndisplay'>SD card device has detected a warning.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Warning</severity>
   </event>
   <event>
     <mask>
@@ -5303,7 +5303,7 @@ for its AC power switch has been set to non-redundant.&lt;/p&gt;&lt;table&gt;
 
     </descr>
     <logmsg dest='logndisplay'>SD card device has detected a failure.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Minor</severity>
   </event>
   <event>
     <mask>
@@ -5633,7 +5633,7 @@ for its AC power switch has been set to non-redundant.&lt;/p&gt;&lt;table&gt;
 
     </descr>
     <logmsg dest='logndisplay'>Server Administrator has completed its initialization.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Normal</severity>
   </event>
   <event>
     <mask>
@@ -5963,7 +5963,7 @@ for its AC power switch has been set to non-redundant.&lt;/p&gt;&lt;table&gt;
 
     </descr>
     <logmsg dest='logndisplay'>Thermal shutdown protection has been initiated.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Major</severity>
   </event>
   <event>
     <mask>
@@ -6293,7 +6293,7 @@ for its AC power switch has been set to non-redundant.&lt;/p&gt;&lt;table&gt;
 
     </descr>
     <logmsg dest='logndisplay'>Automatic system recovery (ASR) was performed.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Major</severity>
   </event>
   <event>
     <mask>
@@ -6623,7 +6623,7 @@ for its AC power switch has been set to non-redundant.&lt;/p&gt;&lt;table&gt;
 
     </descr>
     <logmsg dest='logndisplay'>User has initiated host system reset.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Warning</severity>
   </event>
   <event>
     <mask>
@@ -6953,7 +6953,7 @@ for its AC power switch has been set to non-redundant.&lt;/p&gt;&lt;table&gt;
 
     </descr>
     <logmsg dest='logndisplay'>System peak power sensor has detected a new peak value.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Normal</severity>
   </event>
   <event>
     <mask>
@@ -7283,7 +7283,7 @@ for its AC power switch has been set to non-redundant.&lt;/p&gt;&lt;table&gt;
 
     </descr>
     <logmsg dest='logndisplay'>System software event has occurred.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Normal</severity>
   </event>
   <event>
     <mask>
@@ -7613,7 +7613,7 @@ for its AC power switch has been set to non-redundant.&lt;/p&gt;&lt;table&gt;
 
     </descr>
     <logmsg dest='logndisplay'>Temperature probe has returned to a normal value.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Cleared</severity>
   </event>
   <event>
     <mask>
@@ -7943,7 +7943,7 @@ for its AC power switch has been set to non-redundant.&lt;/p&gt;&lt;table&gt;
 
     </descr>
     <logmsg dest='logndisplay'>Temperature probe has detected a warning value.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Warning</severity>
   </event>
   <event>
     <mask>
@@ -8273,7 +8273,7 @@ for its AC power switch has been set to non-redundant.&lt;/p&gt;&lt;table&gt;
 
     </descr>
     <logmsg dest='logndisplay'>Temperature probe has detected a failure value.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Major</severity>
   </event>
   <event>
     <mask>
@@ -8603,7 +8603,7 @@ for its AC power switch has been set to non-redundant.&lt;/p&gt;&lt;table&gt;
 
     </descr>
     <logmsg dest='logndisplay'>Temperature probe has detected a non-recoverable value.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Critical</severity>
   </event>
   <event>
     <mask>
@@ -8933,7 +8933,7 @@ for its AC power switch has been set to non-redundant.&lt;/p&gt;&lt;table&gt;
 
     </descr>
     <logmsg dest='logndisplay'>Cooling device sensor has returned to a normal value.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Cleared</severity>
   </event>
   <event>
     <mask>
@@ -9263,7 +9263,7 @@ for its AC power switch has been set to non-redundant.&lt;/p&gt;&lt;table&gt;
 
     </descr>
     <logmsg dest='logndisplay'>Cooling device sensor has detected a warning value.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Warning</severity>
   </event>
   <event>
     <mask>
@@ -9593,7 +9593,7 @@ for its AC power switch has been set to non-redundant.&lt;/p&gt;&lt;table&gt;
 
     </descr>
     <logmsg dest='logndisplay'>Cooling device sensor has detected a failure value.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Major</severity>
   </event>
   <event>
     <mask>
@@ -9923,7 +9923,7 @@ for its AC power switch has been set to non-redundant.&lt;/p&gt;&lt;table&gt;
 
     </descr>
     <logmsg dest='logndisplay'>Cooling device sensor has detected a non-recoverable value.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Critical</severity>
   </event>
   <event>
     <mask>
@@ -10253,7 +10253,7 @@ for its AC power switch has been set to non-redundant.&lt;/p&gt;&lt;table&gt;
 
     </descr>
     <logmsg dest='logndisplay'>Voltage probe has returned to a normal value.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Cleared</severity>
   </event>
   <event>
     <mask>
@@ -10583,7 +10583,7 @@ for its AC power switch has been set to non-redundant.&lt;/p&gt;&lt;table&gt;
 
     </descr>
     <logmsg dest='logndisplay'>Voltage probe has detected a warning value.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Warning</severity>
   </event>
   <event>
     <mask>
@@ -10913,7 +10913,7 @@ for its AC power switch has been set to non-redundant.&lt;/p&gt;&lt;table&gt;
 
     </descr>
     <logmsg dest='logndisplay'>Voltage probe has detected a failure value.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Major</severity>
   </event>
   <event>
     <mask>
@@ -11243,7 +11243,7 @@ for its AC power switch has been set to non-redundant.&lt;/p&gt;&lt;table&gt;
 
     </descr>
     <logmsg dest='logndisplay'>Voltage probe has detected a non-recoverable value.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Major</severity>
   </event>
   <event>
     <mask>
@@ -11573,7 +11573,7 @@ for its AC power switch has been set to non-redundant.&lt;/p&gt;&lt;table&gt;
 
     </descr>
     <logmsg dest='logndisplay'>Amperage probe has returned to a normal value.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Cleared</severity>
   </event>
   <event>
     <mask>
@@ -11903,7 +11903,7 @@ for its AC power switch has been set to non-redundant.&lt;/p&gt;&lt;table&gt;
 
     </descr>
     <logmsg dest='logndisplay'>Amperage probe has detected a warning value.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Warning</severity>
   </event>
   <event>
     <mask>
@@ -12233,7 +12233,7 @@ for its AC power switch has been set to non-redundant.&lt;/p&gt;&lt;table&gt;
 
     </descr>
     <logmsg dest='logndisplay'>Amperage probe has detected a failure value.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Major</severity>
   </event>
   <event>
     <mask>
@@ -12563,7 +12563,7 @@ for its AC power switch has been set to non-redundant.&lt;/p&gt;&lt;table&gt;
 
     </descr>
     <logmsg dest='logndisplay'>Amperage probe has detected a non-recoverable value.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Critical</severity>
   </event>
   <event>
     <mask>
@@ -12893,7 +12893,7 @@ for its AC power switch has been set to non-redundant.&lt;/p&gt;&lt;table&gt;
 
     </descr>
     <logmsg dest='logndisplay'>Chassis intrusion has returned to normal.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Cleared</severity>
   </event>
   <event>
     <mask>
@@ -13223,7 +13223,7 @@ for its AC power switch has been set to non-redundant.&lt;/p&gt;&lt;table&gt;
 
     </descr>
     <logmsg dest='logndisplay'>Chassis intrusion has been detected.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Warning</severity>
   </event>
   <event>
     <mask>
@@ -13553,7 +13553,7 @@ for its AC power switch has been set to non-redundant.&lt;/p&gt;&lt;table&gt;
 
     </descr>
     <logmsg dest='logndisplay'>Redundancy has returned to normal.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Cleared</severity>
   </event>
   <event>
     <mask>
@@ -13883,7 +13883,7 @@ for its AC power switch has been set to non-redundant.&lt;/p&gt;&lt;table&gt;
 
     </descr>
     <logmsg dest='logndisplay'>Redundancy has been degraded.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Minor</severity>
   </event>
   <event>
     <mask>
@@ -14213,7 +14213,7 @@ for its AC power switch has been set to non-redundant.&lt;/p&gt;&lt;table&gt;
 
     </descr>
     <logmsg dest='logndisplay'>Redundancy has been lost.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Minor</severity>
   </event>
   <event>
     <mask>
@@ -14543,7 +14543,7 @@ for its AC power switch has been set to non-redundant.&lt;/p&gt;&lt;table&gt;
 
     </descr>
     <logmsg dest='logndisplay'>Power supply has returned to normal.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Cleared</severity>
   </event>
   <event>
     <mask>
@@ -14873,7 +14873,7 @@ for its AC power switch has been set to non-redundant.&lt;/p&gt;&lt;table&gt;
 
     </descr>
     <logmsg dest='logndisplay'>Power supply has detected a warning.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Warning</severity>
   </event>
   <event>
     <mask>
@@ -15203,7 +15203,7 @@ for its AC power switch has been set to non-redundant.&lt;/p&gt;&lt;table&gt;
 
     </descr>
     <logmsg dest='logndisplay'>Power supply has detected a failure.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Major</severity>
   </event>
   <event>
     <mask>
@@ -15533,7 +15533,7 @@ for its AC power switch has been set to non-redundant.&lt;/p&gt;&lt;table&gt;
 
     </descr>
     <logmsg dest='logndisplay'>Memory device status is noncritical.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Warning</severity>
   </event>
   <event>
     <mask>
@@ -15863,7 +15863,7 @@ for its AC power switch has been set to non-redundant.&lt;/p&gt;&lt;table&gt;
 
     </descr>
     <logmsg dest='logndisplay'>Memory device status is critical.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Major</severity>
   </event>
   <event>
     <mask>
@@ -16193,7 +16193,7 @@ for its AC power switch has been set to non-redundant.&lt;/p&gt;&lt;table&gt;
 
     </descr>
     <logmsg dest='logndisplay'>Memory device status is non-recoverable.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Critical</severity>
   </event>
   <event>
     <mask>
@@ -16523,7 +16523,7 @@ for its AC power switch has been set to non-redundant.&lt;/p&gt;&lt;table&gt;
 
     </descr>
     <logmsg dest='logndisplay'>Fan enclosure has been inserted into system.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Cleared</severity>
   </event>
   <event>
     <mask>
@@ -16853,7 +16853,7 @@ for its AC power switch has been set to non-redundant.&lt;/p&gt;&lt;table&gt;
 
     </descr>
     <logmsg dest='logndisplay'>Fan enclosure has been removed from system.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Warning</severity>
   </event>
   <event>
     <mask>
@@ -17183,7 +17183,7 @@ for its AC power switch has been set to non-redundant.&lt;/p&gt;&lt;table&gt;
 
     </descr>
     <logmsg dest='logndisplay'>Fan enclosure has been removed from system for an extended amount of time.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Minor</severity>
   </event>
   <event>
     <mask>
@@ -17516,7 +17516,7 @@ for its AC power switch has been set to non-redundant.&lt;/p&gt;&lt;table&gt;
       AC power cord does not have power, and the reduncancy mode
 for its AC power switch has been set to non-redundant.
     </logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Minor</severity>
   </event>
   <event>
     <mask>
@@ -17846,7 +17846,7 @@ for its AC power switch has been set to non-redundant.
 
     </descr>
     <logmsg dest='logndisplay'>AC power cord has regained power.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Cleared</severity>
   </event>
   <event>
     <mask>
@@ -18176,7 +18176,7 @@ for its AC power switch has been set to non-redundant.
 
     </descr>
     <logmsg dest='logndisplay'>AC power cord has lost power.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Minor</severity>
   </event>
   <event>
     <mask>
@@ -18506,7 +18506,7 @@ for its AC power switch has been set to non-redundant.
 
     </descr>
     <logmsg dest='logndisplay'>Log size is no longer near or at capacity.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Cleared</severity>
   </event>
   <event>
     <mask>
@@ -18836,7 +18836,7 @@ for its AC power switch has been set to non-redundant.
 
     </descr>
     <logmsg dest='logndisplay'>Log size is near capacity.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Warning</severity>
   </event>
   <event>
     <mask>
@@ -19166,7 +19166,7 @@ for its AC power switch has been set to non-redundant.
 
     </descr>
     <logmsg dest='logndisplay'>Log size is at capacity.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Minor</severity>
   </event>
   <event>
     <mask>
@@ -19496,7 +19496,7 @@ for its AC power switch has been set to non-redundant.
 
     </descr>
     <logmsg dest='logndisplay'>Processor device status has returned to normal.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Cleared</severity>
   </event>
   <event>
     <mask>
@@ -19826,7 +19826,7 @@ for its AC power switch has been set to non-redundant.
 
     </descr>
     <logmsg dest='logndisplay'>Processor device status has detected a warning.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Warning</severity>
   </event>
   <event>
     <mask>
@@ -20156,7 +20156,7 @@ for its AC power switch has been set to non-redundant.
 
     </descr>
     <logmsg dest='logndisplay'>Processor device status has detected a failure.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Major</severity>
   </event>
   <event>
     <mask>
@@ -20486,7 +20486,7 @@ for its AC power switch has been set to non-redundant.
 
     </descr>
     <logmsg dest='logndisplay'>Device added to system.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Normal</severity>
   </event>
   <event>
     <mask>
@@ -20816,7 +20816,7 @@ for its AC power switch has been set to non-redundant.
 
     </descr>
     <logmsg dest='logndisplay'>Device removed from system.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Warning</severity>
   </event>
   <event>
     <mask>
@@ -21146,7 +21146,7 @@ for its AC power switch has been set to non-redundant.
 
     </descr>
     <logmsg dest='logndisplay'>Device configuration error detected.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Minor</severity>
   </event>
   <event>
     <mask>
@@ -21476,7 +21476,7 @@ for its AC power switch has been set to non-redundant.
 
     </descr>
     <logmsg dest='logndisplay'>Battery has returned to normal.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Cleared</severity>
   </event>
   <event>
     <mask>
@@ -21806,7 +21806,7 @@ for its AC power switch has been set to non-redundant.
 
     </descr>
     <logmsg dest='logndisplay'>Battery has detected a warning.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Warning</severity>
   </event>
   <event>
     <mask>
@@ -22136,7 +22136,7 @@ for its AC power switch has been set to non-redundant.
 
     </descr>
     <logmsg dest='logndisplay'>Battery has detected a failure.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Major</severity>
   </event>
   <event>
     <mask>
@@ -22466,7 +22466,7 @@ for its AC power switch has been set to non-redundant.
 
     </descr>
     <logmsg dest='logndisplay'>SD card device has detected a warning.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Warning</severity>
   </event>
   <event>
     <mask>
@@ -22796,7 +22796,7 @@ for its AC power switch has been set to non-redundant.
 
     </descr>
     <logmsg dest='logndisplay'>SD card device has detected a failure.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Major</severity>
   </event>
 
 <!-- End of auto generated data from MIB: MIB-Dell-10892 -->
@@ -35102,7 +35102,7 @@ This trap is similar to 980 but may occur for more recent firmware versions.&lt;
 
     </descr>
     <logmsg dest='logndisplay'>IPMI Alert Configuration Test</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Normal</severity>
   </event>
 <event>
 	<mask>
@@ -36543,7 +36543,7 @@ This trap is similar to 980 but may occur for more recent firmware versions.&lt;
 
     </descr>
     <logmsg dest='logndisplay'>Power Supply Mismatch (Configuration Error)</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Minor</severity>
   </event>
   <event>
     <mask>
@@ -36784,7 +36784,7 @@ This trap is similar to 980 but may occur for more recent firmware versions.&lt;
 
     </descr>
     <logmsg dest='logndisplay'>System Power Exceeds than PSU Wattage (Warning)</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Major</severity>
   </event>
 <event>
 	<mask>
@@ -37125,7 +37125,7 @@ This trap is similar to 980 but may occur for more recent firmware versions.&lt;
 
     </descr>
     <logmsg dest='logndisplay'>Power Supply Mismatch Error Cleared (Configuration Error Cleared)</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Cleared</severity>
   </event>
   <event>
     <mask>
@@ -37366,7 +37366,7 @@ This trap is similar to 980 but may occur for more recent firmware versions.&lt;
 
     </descr>
     <logmsg dest='logndisplay'>System Power Exceeds Warning Cleared</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Cleared</severity>
   </event>
 <event>
 	<mask>
@@ -37657,7 +37657,7 @@ This trap is similar to 980 but may occur for more recent firmware versions.&lt;
 
     </descr>
     <logmsg dest='logndisplay'>SD Card redundancy Has Returned to Normal</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Cleared</severity>
   </event>
   <event>
     <mask>
@@ -37898,7 +37898,7 @@ This trap is similar to 980 but may occur for more recent firmware versions.&lt;
 
     </descr>
     <logmsg dest='logndisplay'>SD Card redundancy has been lost</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Minor</severity>
   </event>
   <event>
     <mask>
@@ -38139,7 +38139,7 @@ This trap is similar to 980 but may occur for more recent firmware versions.&lt;
 
     </descr>
     <logmsg dest='logndisplay'>SD Card redundancy has been degraded</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Minor</severity>
   </event>
   <event>
     <mask>
@@ -38380,7 +38380,7 @@ This trap is similar to 980 but may occur for more recent firmware versions.&lt;
 
     </descr>
     <logmsg dest='logndisplay'>Module SD Card not Present</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Warning</severity>
   </event>
   <event>
     <mask>
@@ -38621,7 +38621,7 @@ This trap is similar to 980 but may occur for more recent firmware versions.&lt;
 
     </descr>
     <logmsg dest='logndisplay'>Module SD Card Failure Error</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Major</severity>
   </event>
   <event>
     <mask>
@@ -38862,7 +38862,7 @@ This trap is similar to 980 but may occur for more recent firmware versions.&lt;
 
     </descr>
     <logmsg dest='logndisplay'>Module SD Card Write Protect Warning</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Warning</severity>
   </event>
   <event>
     <mask>
@@ -39103,7 +39103,7 @@ This trap is similar to 980 but may occur for more recent firmware versions.&lt;
 
     </descr>
     <logmsg dest='logndisplay'>Module SD Card Present (SD Card Presence Detected)</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Normal</severity>
   </event>
 <event>
 	<mask>
@@ -39445,7 +39445,7 @@ This trap is similar to 980 but may occur for more recent firmware versions.&lt;
 
     </descr>
     <logmsg dest='logndisplay'>Over-System Power Utilization Warning (Upper Non-Critical - going high)</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Warning</severity>
   </event>
   <event>
     <mask>
@@ -39686,7 +39686,7 @@ This trap is similar to 980 but may occur for more recent firmware versions.&lt;
 
     </descr>
     <logmsg dest='logndisplay'>Over-System Power Utilization Warning Cleared</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Cleared</severity>
   </event>
   <event>
     <mask>
@@ -39927,7 +39927,7 @@ This trap is similar to 980 but may occur for more recent firmware versions.&lt;
 
     </descr>
     <logmsg dest='logndisplay'>Over-System Power Utilization Problem (Upper Critical - going high)</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Critical</severity>
   </event>
   <event>
     <mask>
@@ -40168,7 +40168,7 @@ This trap is similar to 980 but may occur for more recent firmware versions.&lt;
 
     </descr>
     <logmsg dest='logndisplay'>Over-System Power Utilization Problem Cleared</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Cleared</severity>
   </event>
   <event>
     <mask>
@@ -40409,7 +40409,7 @@ This trap is similar to 980 but may occur for more recent firmware versions.&lt;
 
     </descr>
     <logmsg dest='logndisplay'>Battery Low (Predictive Failure)</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Major</severity>
   </event>
   <event>
     <mask>
@@ -40650,7 +40650,7 @@ This trap is similar to 980 but may occur for more recent firmware versions.&lt;
 
     </descr>
     <logmsg dest='logndisplay'>Battery Failure</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Critical</severity>
   </event>
   <event>
     <mask>
@@ -40891,7 +40891,7 @@ This trap is similar to 980 but may occur for more recent firmware versions.&lt;
 
     </descr>
     <logmsg dest='logndisplay'>Battery Low (Predictive Failure) Cleared</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Cleared</severity>
   </event>
   <event>
     <mask>
@@ -41132,7 +41132,7 @@ This trap is similar to 980 but may occur for more recent firmware versions.&lt;
 
     </descr>
     <logmsg dest='logndisplay'>Battery Failure Cleared</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Cleared</severity>
   </event>
   <event>
     <mask>
@@ -41373,7 +41373,7 @@ This trap is similar to 980 but may occur for more recent firmware versions.&lt;
 
     </descr>
     <logmsg dest='logndisplay'>System Power Exceeds than PSU Wattage (Error)</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Major</severity>
   </event>
   <event>
     <mask>
@@ -41614,7 +41614,7 @@ This trap is similar to 980 but may occur for more recent firmware versions.&lt;
 
     </descr>
     <logmsg dest='logndisplay'>System Power Exceeds Error Cleared</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Cleared</severity>
   </event>
   <event>
     <mask>
@@ -41855,7 +41855,7 @@ This trap is similar to 980 but may occur for more recent firmware versions.&lt;
 
     </descr>
     <logmsg dest='logndisplay'>Internal Dual SD Module is redundant</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Cleared</severity>
   </event>
   <event>
     <mask>
@@ -42096,7 +42096,7 @@ This trap is similar to 980 but may occur for more recent firmware versions.&lt;
 
     </descr>
     <logmsg dest='logndisplay'>Internal Dual SD Module redundancy is lost</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Minor</severity>
   </event>
   <event>
     <mask>
@@ -42337,7 +42337,7 @@ This trap is similar to 980 but may occur for more recent firmware versions.&lt;
 
     </descr>
     <logmsg dest='logndisplay'>Internal Dual SD Module is not redundant</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Warning</severity>
   </event>
   <event>
     <mask>
@@ -42578,7 +42578,7 @@ This trap is similar to 980 but may occur for more recent firmware versions.&lt;
 
     </descr>
     <logmsg dest='logndisplay'>Internal Dual SD Module is present</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Normal</severity>
   </event>
   <event>
     <mask>
@@ -42819,7 +42819,7 @@ This trap is similar to 980 but may occur for more recent firmware versions.&lt;
 
     </descr>
     <logmsg dest='logndisplay'>Internal Dual SD Module is offline</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Major</severity>
   </event>
   <event>
     <mask>
@@ -43060,7 +43060,7 @@ This trap is similar to 980 but may occur for more recent firmware versions.&lt;
 
     </descr>
     <logmsg dest='logndisplay'>Failure detected on Internal Dual SD Module</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Major</severity>
   </event>
   <event>
     <mask>
@@ -43301,7 +43301,7 @@ This trap is similar to 980 but may occur for more recent firmware versions.&lt;
 
     </descr>
     <logmsg dest='logndisplay'>Internal Dual SD Module is write protected</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Warning</severity>
   </event>
   <event>
     <mask>
@@ -43542,7 +43542,7 @@ This trap is similar to 980 but may occur for more recent firmware versions.&lt;
 
     </descr>
     <logmsg dest='logndisplay'>Internal Dual SD Module is absent</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Warning</severity>
   </event>
   <event>
     <mask>
@@ -43783,7 +43783,7 @@ This trap is similar to 980 but may occur for more recent firmware versions.&lt;
 
     </descr>
     <logmsg dest='logndisplay'>Internal Dual SD Module is online</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Cleared</severity>
   </event>
   <event>
     <mask>
@@ -44024,7 +44024,7 @@ This trap is similar to 980 but may occur for more recent firmware versions.&lt;
 
     </descr>
     <logmsg dest='logndisplay'>Internal Dual SD Module is operating normally</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Normal</severity>
   </event>
   <event>
     <mask>
@@ -44265,7 +44265,7 @@ This trap is similar to 980 but may occur for more recent firmware versions.&lt;
 
     </descr>
     <logmsg dest='logndisplay'>Internal Dual SD Module is writable</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Normal</severity>
   </event>
 <!-- End of auto generated data from MIB: DELL_ASF-MIB -->
 <!-- Start of auto generated data from MIB: BASP-Statistics-MIB -->
@@ -44307,7 +44307,7 @@ There is no global status change associated with this trap.&lt;/p&gt;&lt;table&g
 			messageIDEvent=%parm[#1]% 
 			descriptionEvent=%parm[#2]%&lt;/p&gt;
 		</logmsg>
-	<severity>Indeterminate</severity>
+	<severity>Normal</severity>
 </event>
 <event>
 	<mask>
@@ -44342,7 +44342,7 @@ There is no global status change associated with this trap.&lt;/p&gt;&lt;table&g
 			messageIDEvent=%parm[#1]% 
 			descriptionEvent=%parm[#2]%&lt;/p&gt;
 		</logmsg>
-	<severity>Indeterminate</severity>
+	<severity>Normal</severity>
 </event>
 <event>
 	<mask>
@@ -44414,7 +44414,7 @@ There is no global status change associated with this trap.&lt;/p&gt;&lt;table&g
 			messageIDEvent=%parm[#1]% 
 			descriptionEvent=%parm[#2]%&lt;/p&gt;
 		</logmsg>
-	<severity>Indeterminate</severity>
+	<severity>Minor</severity>
 </event>
 <event>
 	<mask>
@@ -44529,7 +44529,7 @@ There is no global status change associated with this trap.&lt;/p&gt;&lt;table&g
 			currentStatusEvent=%parm[#7]% 
 			previousStatusEvent=%parm[#8]%&lt;/p&gt;
 		</logmsg>
-	<severity>Indeterminate</severity>
+	<severity>Normal</severity>
 </event>
 <event>
 	<mask>
@@ -48895,7 +48895,7 @@ There is no global status change associated with this trap.&lt;/p&gt;&lt;table&g
 
     </descr>
     <logmsg dest='logndisplay'>There is no global status change associated with this trap.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Normal</severity>
   </event>
   <event>
     <mask>
@@ -49156,7 +49156,7 @@ There is no global status change associated with this trap.&lt;/p&gt;&lt;table&g
       Storage Management has detected a device independent warning condition.
 There is no global status change associated with this trap.
     </logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Warning</severity>
   </event>
   <event>
     <mask>
@@ -49417,7 +49417,7 @@ There is no global status change associated with this trap.
       Storage Management Information
 There is no global status change associated with this trap.
     </logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Normal</severity>
   </event>
   <event>
     <mask>
@@ -49678,7 +49678,7 @@ There is no global status change associated with this trap.
       Storage Management has detected a device independent error condition.
 There is no global status change associated with this trap.
     </logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Minor</severity>
   </event>
   <event>
     <mask>
@@ -49941,7 +49941,7 @@ There is no global status change associated with this trap.
       Storage Management has detected a device independent non-recoverable condition.
 There is no global status change associated with this trap.
     </logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Major</severity>
   </event>
   <event>
     <mask>
@@ -50253,7 +50253,7 @@ There is no global status change associated with this trap.
 
     </descr>
     <logmsg dest='logndisplay'>Controller information.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Normal</severity>
   </event>
   <event>
     <mask>
@@ -50565,7 +50565,7 @@ There is no global status change associated with this trap.
 
     </descr>
     <logmsg dest='logndisplay'>Controller has returned to normal.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Cleared</severity>
   </event>
   <event>
     <mask>
@@ -50877,7 +50877,7 @@ There is no global status change associated with this trap.
 
     </descr>
     <logmsg dest='logndisplay'>Controller warning.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Warning</severity>
   </event>
   <event>
     <mask>
@@ -51189,7 +51189,7 @@ There is no global status change associated with this trap.
 
     </descr>
     <logmsg dest='logndisplay'>Controller failure.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Major</severity>
   </event>
   <event>
     <mask>
@@ -51501,7 +51501,7 @@ There is no global status change associated with this trap.
 
     </descr>
     <logmsg dest='logndisplay'>Controller is non-recoverable.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Critical</severity>
   </event>
   <event>
     <mask>
@@ -51813,7 +51813,7 @@ There is no global status change associated with this trap.
 
     </descr>
     <logmsg dest='logndisplay'>Channel information.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Normal</severity>
   </event>
   <event>
     <mask>
@@ -52125,7 +52125,7 @@ There is no global status change associated with this trap.
 
     </descr>
     <logmsg dest='logndisplay'>Channel has returned to normal.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Cleared</severity>
   </event>
   <event>
     <mask>
@@ -52437,7 +52437,7 @@ There is no global status change associated with this trap.
 
     </descr>
     <logmsg dest='logndisplay'>Channel warning.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Warning</severity>
   </event>
   <event>
     <mask>
@@ -52749,7 +52749,7 @@ There is no global status change associated with this trap.
 
     </descr>
     <logmsg dest='logndisplay'>Channel failure.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Major</severity>
   </event>
   <event>
     <mask>
@@ -53061,7 +53061,7 @@ There is no global status change associated with this trap.
 
     </descr>
     <logmsg dest='logndisplay'>Channel is non-recoverable.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Critical</severity>
   </event>
   <event>
     <mask>
@@ -53373,7 +53373,7 @@ There is no global status change associated with this trap.
 
     </descr>
     <logmsg dest='logndisplay'>Enclosure information.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Normal</severity>
   </event>
   <event>
     <mask>
@@ -53685,7 +53685,7 @@ There is no global status change associated with this trap.
 
     </descr>
     <logmsg dest='logndisplay'>Enclosure has returned to normal.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Cleared</severity>
   </event>
   <event>
     <mask>
@@ -53997,7 +53997,7 @@ There is no global status change associated with this trap.
 
     </descr>
     <logmsg dest='logndisplay'>Enclosure warning.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Warning</severity>
   </event>
   <event>
     <mask>
@@ -54309,7 +54309,7 @@ There is no global status change associated with this trap.
 
     </descr>
     <logmsg dest='logndisplay'>Enclosure failure.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Major</severity>
   </event>
   <event>
     <mask>
@@ -54621,7 +54621,7 @@ There is no global status change associated with this trap.
 
     </descr>
     <logmsg dest='logndisplay'>Enclosure is non-recoverable.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Critical</severity>
   </event>
   <event>
     <mask>
@@ -54933,7 +54933,7 @@ There is no global status change associated with this trap.
 
     </descr>
     <logmsg dest='logndisplay'>Array disk information.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Normal</severity>
   </event>
   <event>
     <mask>
@@ -55245,7 +55245,7 @@ There is no global status change associated with this trap.
 
     </descr>
     <logmsg dest='logndisplay'>Array disk has returned to normal.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Cleared</severity>
   </event>
   <event>
     <mask>
@@ -55557,7 +55557,7 @@ There is no global status change associated with this trap.
 
     </descr>
     <logmsg dest='logndisplay'>Array disk warning.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Warning</severity>
   </event>
   <event>
     <mask>
@@ -55869,7 +55869,7 @@ There is no global status change associated with this trap.
 
     </descr>
     <logmsg dest='logndisplay'>Array disk failure.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Major</severity>
   </event>
   <event>
     <mask>
@@ -56181,7 +56181,7 @@ There is no global status change associated with this trap.
 
     </descr>
     <logmsg dest='logndisplay'>Array disk is non-recoverable.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Critical</severity>
   </event>
   <event>
     <mask>
@@ -56493,7 +56493,7 @@ There is no global status change associated with this trap.
 
     </descr>
     <logmsg dest='logndisplay'>EMM information.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Normal</severity>
   </event>
   <event>
     <mask>
@@ -56805,7 +56805,7 @@ There is no global status change associated with this trap.
 
     </descr>
     <logmsg dest='logndisplay'>EMM has returned to normal.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Cleared</severity>
   </event>
   <event>
     <mask>
@@ -57117,7 +57117,7 @@ There is no global status change associated with this trap.
 
     </descr>
     <logmsg dest='logndisplay'>EMM warning.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Warning</severity>
   </event>
   <event>
     <mask>
@@ -57429,7 +57429,7 @@ There is no global status change associated with this trap.
 
     </descr>
     <logmsg dest='logndisplay'>EMM failure.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Major</severity>
   </event>
   <event>
     <mask>
@@ -57741,7 +57741,7 @@ There is no global status change associated with this trap.
 
     </descr>
     <logmsg dest='logndisplay'>EMM is non-recoverable.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Critical</severity>
   </event>
   <event>
     <mask>
@@ -58053,7 +58053,7 @@ There is no global status change associated with this trap.
 
     </descr>
     <logmsg dest='logndisplay'>Power supply information.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Normal</severity>
   </event>
   <event>
     <mask>
@@ -58365,7 +58365,7 @@ There is no global status change associated with this trap.
 
     </descr>
     <logmsg dest='logndisplay'>Power supply has returned to normal.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Cleared</severity>
   </event>
   <event>
     <mask>
@@ -58677,7 +58677,7 @@ There is no global status change associated with this trap.
 
     </descr>
     <logmsg dest='logndisplay'>Power supply warning.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Warning</severity>
   </event>
   <event>
     <mask>
@@ -58989,7 +58989,7 @@ There is no global status change associated with this trap.
 
     </descr>
     <logmsg dest='logndisplay'>Power supply failure.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Major</severity>
   </event>
   <event>
     <mask>
@@ -59301,7 +59301,7 @@ There is no global status change associated with this trap.
 
     </descr>
     <logmsg dest='logndisplay'>Power supply is non-recoverable.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Critical</severity>
   </event>
   <event>
     <mask>
@@ -59613,7 +59613,7 @@ There is no global status change associated with this trap.
 
     </descr>
     <logmsg dest='logndisplay'>Temperature probe information.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Normal</severity>
   </event>
   <event>
     <mask>
@@ -59925,7 +59925,7 @@ There is no global status change associated with this trap.
 
     </descr>
     <logmsg dest='logndisplay'>Temperature probe has returned to normal.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Cleared</severity>
   </event>
   <event>
     <mask>
@@ -60237,7 +60237,7 @@ There is no global status change associated with this trap.
 
     </descr>
     <logmsg dest='logndisplay'>Temperature probe warning.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Warning</severity>
   </event>
   <event>
     <mask>
@@ -60549,7 +60549,7 @@ There is no global status change associated with this trap.
 
     </descr>
     <logmsg dest='logndisplay'>Temperature probe failure.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Minor</severity>
   </event>
   <event>
     <mask>
@@ -60863,7 +60863,7 @@ There is no global status change associated with this trap.
 
     </descr>
     <logmsg dest='logndisplay'>Temperature probe is non-recoverable.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Major</severity>
   </event>
   <event>
     <mask>
@@ -61175,7 +61175,7 @@ There is no global status change associated with this trap.
 
     </descr>
     <logmsg dest='logndisplay'>Battery has returned to normal.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Cleared</severity>
   </event>
   <event>
     <mask>
@@ -61487,7 +61487,7 @@ There is no global status change associated with this trap.
 
     </descr>
     <logmsg dest='logndisplay'>Battery information.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Normal</severity>
   </event>
   <event>
     <mask>
@@ -61799,7 +61799,7 @@ There is no global status change associated with this trap.
 
     </descr>
     <logmsg dest='logndisplay'>Battery warning.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Warning</severity>
   </event>
   <event>
     <mask>
@@ -62111,7 +62111,7 @@ There is no global status change associated with this trap.
 
     </descr>
     <logmsg dest='logndisplay'>Battery failure.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Major</severity>
   </event>
   <event>
     <mask>
@@ -62423,7 +62423,7 @@ There is no global status change associated with this trap.
 
     </descr>
     <logmsg dest='logndisplay'>Battery is non-recoverable.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Critical</severity>
   </event>
   <event>
     <mask>
@@ -62735,7 +62735,7 @@ There is no global status change associated with this trap.
 
     </descr>
     <logmsg dest='logndisplay'>Virtual disk information.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Normal</severity>
   </event>
   <event>
     <mask>
@@ -63047,7 +63047,7 @@ There is no global status change associated with this trap.
 
     </descr>
     <logmsg dest='logndisplay'>Virtual disk has returned to normal.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Cleared</severity>
   </event>
   <event>
     <mask>
@@ -63359,7 +63359,7 @@ There is no global status change associated with this trap.
 
     </descr>
     <logmsg dest='logndisplay'>Virtual disk warning.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Warning</severity>
   </event>
   <event>
     <mask>
@@ -63671,7 +63671,7 @@ There is no global status change associated with this trap.
 
     </descr>
     <logmsg dest='logndisplay'>Virtual disk failure.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Major</severity>
   </event>
   <event>
     <mask>
@@ -63983,7 +63983,7 @@ There is no global status change associated with this trap.
 
     </descr>
     <logmsg dest='logndisplay'>Virtual disk is non-recoverable.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Critical</severity>
   </event>
   <event>
     <mask>
@@ -64295,7 +64295,7 @@ There is no global status change associated with this trap.
 
     </descr>
     <logmsg dest='logndisplay'>Redundancy has returned to normal.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Cleared</severity>
   </event>
   <event>
     <mask>
@@ -64607,7 +64607,7 @@ There is no global status change associated with this trap.
 
     </descr>
     <logmsg dest='logndisplay'>Redundancy has been degraded.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Minor</severity>
   </event>
   <event>
     <mask>
@@ -64919,7 +64919,7 @@ There is no global status change associated with this trap.
 
     </descr>
     <logmsg dest='logndisplay'>Redundancy has been lost.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Minor</severity>
   </event>
 
 <!-- End of auto generated data from MIB: StorageManagement-MIB -->
@@ -65246,7 +65246,7 @@ There is no global status change associated with this trap.
 
     </descr>
     <logmsg dest='logndisplay'>Network failure or critical event.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Major</severity>
   </event>
   <event>
     <mask>
@@ -65567,7 +65567,7 @@ There is no global status change associated with this trap.
 
     </descr>
     <logmsg dest='logndisplay'>Network warning.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Warning</severity>
   </event>
   <event>
     <mask>
@@ -65888,7 +65888,7 @@ There is no global status change associated with this trap.
 
     </descr>
     <logmsg dest='logndisplay'>Network information.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Normal</severity>
   </event>
   <event>
     <mask>
@@ -66209,7 +66209,7 @@ There is no global status change associated with this trap.
 
     </descr>
     <logmsg dest='logndisplay'>Fan failure.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Major</severity>
   </event>
   <event>
     <mask>
@@ -66530,7 +66530,7 @@ There is no global status change associated with this trap.
 
     </descr>
     <logmsg dest='logndisplay'>Fan warning.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Warning</severity>
   </event>
   <event>
     <mask>
@@ -66851,7 +66851,7 @@ There is no global status change associated with this trap.
 
     </descr>
     <logmsg dest='logndisplay'>Fan information.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Normal</severity>
   </event>
   <event>
     <mask>
@@ -67172,7 +67172,7 @@ There is no global status change associated with this trap.
 
     </descr>
     <logmsg dest='logndisplay'>Temperature sensor has detected a failure value.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Major</severity>
   </event>
   <event>
     <mask>
@@ -67493,7 +67493,7 @@ There is no global status change associated with this trap.
 
     </descr>
     <logmsg dest='logndisplay'>Temperature sensor has detected a warning value.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Warning</severity>
   </event>
   <event>
     <mask>
@@ -67814,7 +67814,7 @@ There is no global status change associated with this trap.
 
     </descr>
     <logmsg dest='logndisplay'>Temperature sensor value is within range.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Cleared</severity>
   </event>
   <event>
     <mask>
@@ -68135,7 +68135,7 @@ There is no global status change associated with this trap.
 
     </descr>
     <logmsg dest='logndisplay'>Voltage sensor has detected a failure value.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Major</severity>
   </event>
   <event>
     <mask>
@@ -68456,7 +68456,7 @@ There is no global status change associated with this trap.
 
     </descr>
     <logmsg dest='logndisplay'>Voltage sensor has detected a warning value.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Warning</severity>
   </event>
   <event>
     <mask>
@@ -68777,7 +68777,7 @@ There is no global status change associated with this trap.
 
     </descr>
     <logmsg dest='logndisplay'>Voltage sensor reading is within range.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Cleared</severity>
   </event>
   <event>
     <mask>
@@ -69098,7 +69098,7 @@ There is no global status change associated with this trap.
 
     </descr>
     <logmsg dest='logndisplay'>Current sensor has detected a failure value.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Major</severity>
   </event>
   <event>
     <mask>
@@ -69419,7 +69419,7 @@ There is no global status change associated with this trap.
 
     </descr>
     <logmsg dest='logndisplay'>Current sensor has detected a warning value.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Warning</severity>
   </event>
   <event>
     <mask>
@@ -69740,7 +69740,7 @@ There is no global status change associated with this trap.
 
     </descr>
     <logmsg dest='logndisplay'>Current sensor reading is within range.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Cleared</severity>
   </event>
   <event>
     <mask>
@@ -70061,7 +70061,7 @@ There is no global status change associated with this trap.
 
     </descr>
     <logmsg dest='logndisplay'>Power supply has detected a failure.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Major</severity>
   </event>
   <event>
     <mask>
@@ -70382,7 +70382,7 @@ There is no global status change associated with this trap.
 
     </descr>
     <logmsg dest='logndisplay'>Power supply has detected a warning.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Warning</severity>
   </event>
   <event>
     <mask>
@@ -70703,7 +70703,7 @@ There is no global status change associated with this trap.
 
     </descr>
     <logmsg dest='logndisplay'>Power supply has returned to normal.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Cleared</severity>
   </event>
   <event>
     <mask>
@@ -71024,7 +71024,7 @@ There is no global status change associated with this trap.
 
     </descr>
     <logmsg dest='logndisplay'>Integrated Dual SD Module failure.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Major</severity>
   </event>
   <event>
     <mask>
@@ -71345,7 +71345,7 @@ There is no global status change associated with this trap.
 
     </descr>
     <logmsg dest='logndisplay'>Integrated Dual SD Module warning.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Warning</severity>
   </event>
   <event>
     <mask>
@@ -71666,7 +71666,7 @@ There is no global status change associated with this trap.
 
     </descr>
     <logmsg dest='logndisplay'>Integrated Dual SD Module information.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Normal</severity>
   </event>
   <event>
     <mask>
@@ -71987,7 +71987,7 @@ There is no global status change associated with this trap.
 
     </descr>
     <logmsg dest='logndisplay'>Battery has failed or battery is absent.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Major</severity>
   </event>
   <event>
     <mask>
@@ -72308,7 +72308,7 @@ There is no global status change associated with this trap.
 
     </descr>
     <logmsg dest='logndisplay'>Battery is low.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Warning</severity>
   </event>
   <event>
     <mask>
@@ -72630,7 +72630,7 @@ There is no global status change associated with this trap.
     </descr>
     <logmsg dest='logndisplay'>Battery state has returned to normal;
 or battery presence had been detected.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Cleared</severity>
   </event>
   <event>
     <mask>
@@ -72951,7 +72951,7 @@ or battery presence had been detected.</logmsg>
 
     </descr>
     <logmsg dest='logndisplay'>Automatic system recovery (ASR) was performed.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Major</severity>
   </event>
   <event>
     <mask>
@@ -73272,7 +73272,7 @@ or battery presence had been detected.</logmsg>
 
     </descr>
     <logmsg dest='logndisplay'>Processor device status has detected a failure.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Major</severity>
   </event>
   <event>
     <mask>
@@ -73593,7 +73593,7 @@ or battery presence had been detected.</logmsg>
 
     </descr>
     <logmsg dest='logndisplay'>Processor device status has detected a warning.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Warning</severity>
   </event>
   <event>
     <mask>
@@ -73914,7 +73914,7 @@ or battery presence had been detected.</logmsg>
 
     </descr>
     <logmsg dest='logndisplay'>Processor device status has returned to normal.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Cleared</severity>
   </event>
   <event>
     <mask>
@@ -74235,7 +74235,7 @@ or battery presence had been detected.</logmsg>
 
     </descr>
     <logmsg dest='logndisplay'>Memory device status is critical.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Critical</severity>
   </event>
   <event>
     <mask>
@@ -74556,7 +74556,7 @@ or battery presence had been detected.</logmsg>
 
     </descr>
     <logmsg dest='logndisplay'>Memory device status is noncritical.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Warning</severity>
   </event>
   <event>
     <mask>
@@ -74877,7 +74877,7 @@ or battery presence had been detected.</logmsg>
 
     </descr>
     <logmsg dest='logndisplay'>Memory device informational event.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Normal</severity>
   </event>
   <event>
     <mask>
@@ -75202,7 +75202,7 @@ or battery presence had been detected.</logmsg>
 or the system performance degraded because power draw exceeds the
 power threshold.
     </logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Major</severity>
   </event>
   <event>
     <mask>
@@ -75523,7 +75523,7 @@ power threshold.
 
     </descr>
     <logmsg dest='logndisplay'>System performance degraded.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Minor</severity>
   </event>
   <event>
     <mask>
@@ -75844,7 +75844,7 @@ power threshold.
 
     </descr>
     <logmsg dest='logndisplay'>System performance restored.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Cleared</severity>
   </event>
   <event>
     <mask>
@@ -76165,7 +76165,7 @@ power threshold.
 
     </descr>
     <logmsg dest='logndisplay'>Physical disk failure.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Major</severity>
   </event>
   <event>
     <mask>
@@ -76486,7 +76486,7 @@ power threshold.
 
     </descr>
     <logmsg dest='logndisplay'>Physical disk warning.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Warning</severity>
   </event>
   <event>
     <mask>
@@ -76807,7 +76807,7 @@ power threshold.
 
     </descr>
     <logmsg dest='logndisplay'>Physical disk information.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Normal</severity>
   </event>
   <event>
     <mask>
@@ -77128,7 +77128,7 @@ power threshold.
 
     </descr>
     <logmsg dest='logndisplay'>Hardware configuration failure or critical event.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Major</severity>
   </event>
   <event>
     <mask>
@@ -77449,7 +77449,7 @@ power threshold.
 
     </descr>
     <logmsg dest='logndisplay'>Hardware configuration warning.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Warning</severity>
   </event>
   <event>
     <mask>
@@ -77770,7 +77770,7 @@ power threshold.
 
     </descr>
     <logmsg dest='logndisplay'>Hardware configuration information.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Normal</severity>
   </event>
   <event>
     <mask>
@@ -78091,7 +78091,7 @@ power threshold.
 
     </descr>
     <logmsg dest='logndisplay'>System Event Log failure or critical event.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Major</severity>
   </event>
   <event>
     <mask>
@@ -78412,7 +78412,7 @@ power threshold.
 
     </descr>
     <logmsg dest='logndisplay'>System Event Log warning.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Warning</severity>
   </event>
   <event>
     <mask>
@@ -78733,7 +78733,7 @@ power threshold.
 
     </descr>
     <logmsg dest='logndisplay'>System Event Log information.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Normal</severity>
   </event>
   <event>
     <mask>
@@ -79054,7 +79054,7 @@ power threshold.
 
     </descr>
     <logmsg dest='logndisplay'>Security failure or critical event.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Major</severity>
   </event>
   <event>
     <mask>
@@ -79375,7 +79375,7 @@ power threshold.
 
     </descr>
     <logmsg dest='logndisplay'>Security information.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Normal</severity>
   </event>
   <event>
     <mask>
@@ -79697,7 +79697,7 @@ power threshold.
     </descr>
     <logmsg dest='logndisplay'>A critical stop occurred during OS load;
 or a runtime critical stop occurred.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Major</severity>
   </event>
   <event>
     <mask>
@@ -80019,7 +80019,7 @@ or a runtime critical stop occurred.</logmsg>
     </descr>
     <logmsg dest='logndisplay'>An OS graceful stop occurred;
 or an OS graceful shut-down occurred.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Warning</severity>
   </event>
   <event>
     <mask>
@@ -80340,7 +80340,7 @@ or an OS graceful shut-down occurred.</logmsg>
 
     </descr>
     <logmsg dest='logndisplay'>An error was detected for a PCI device.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Major</severity>
   </event>
   <event>
     <mask>
@@ -80661,7 +80661,7 @@ or an OS graceful shut-down occurred.</logmsg>
 
     </descr>
     <logmsg dest='logndisplay'>A warning event was detected for a PCI device.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Warning</severity>
   </event>
   <event>
     <mask>
@@ -80982,7 +80982,7 @@ or an OS graceful shut-down occurred.</logmsg>
 
     </descr>
     <logmsg dest='logndisplay'>An informational event was detected for a PCI device.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Normal</severity>
   </event>
   <event>
     <mask>
@@ -81303,7 +81303,7 @@ or an OS graceful shut-down occurred.</logmsg>
 
     </descr>
     <logmsg dest='logndisplay'>System BIOS detected a failure.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Major</severity>
   </event>
   <event>
     <mask>
@@ -81624,7 +81624,7 @@ or an OS graceful shut-down occurred.</logmsg>
 
     </descr>
     <logmsg dest='logndisplay'>Processor device is absent.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Warning</severity>
   </event>
   <event>
     <mask>
@@ -81945,7 +81945,7 @@ or an OS graceful shut-down occurred.</logmsg>
 
     </descr>
     <logmsg dest='logndisplay'>Power supply is absent.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Warning</severity>
   </event>
   <event>
     <mask>
@@ -82266,7 +82266,7 @@ or an OS graceful shut-down occurred.</logmsg>
 
     </descr>
     <logmsg dest='logndisplay'>Redundancy is lost.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Minor</severity>
   </event>
   <event>
     <mask>
@@ -82587,7 +82587,7 @@ or an OS graceful shut-down occurred.</logmsg>
 
     </descr>
     <logmsg dest='logndisplay'>Redundancy is degraded.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Minor</severity>
   </event>
   <event>
     <mask>
@@ -82908,7 +82908,7 @@ or an OS graceful shut-down occurred.</logmsg>
 
     </descr>
     <logmsg dest='logndisplay'>Redundancy information.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Normal</severity>
   </event>
   <event>
     <mask>
@@ -83229,7 +83229,7 @@ or an OS graceful shut-down occurred.</logmsg>
 
     </descr>
     <logmsg dest='logndisplay'>Integrated Dual SD Module is absent.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Warning</severity>
   </event>
   <event>
     <mask>
@@ -83550,7 +83550,7 @@ or an OS graceful shut-down occurred.</logmsg>
 
     </descr>
     <logmsg dest='logndisplay'>Integrated Dual SD Module redundancy is lost.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Minor</severity>
   </event>
   <event>
     <mask>
@@ -83873,7 +83873,7 @@ or an OS graceful shut-down occurred.</logmsg>
 
     </descr>
     <logmsg dest='logndisplay'>Integrated Dual SD Module redundancy is degraded.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Minor</severity>
   </event>
   <event>
     <mask>
@@ -84196,7 +84196,7 @@ or an OS graceful shut-down occurred.</logmsg>
 
     </descr>
     <logmsg dest='logndisplay'>Integrated Dual SD Module redundancy information.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Normal</severity>
   </event>
   <event>
     <mask>
@@ -84517,7 +84517,7 @@ or an OS graceful shut-down occurred.</logmsg>
 
     </descr>
     <logmsg dest='logndisplay'>vFlash Media device failure.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Major</severity>
   </event>
   <event>
     <mask>
@@ -84838,7 +84838,7 @@ or an OS graceful shut-down occurred.</logmsg>
 
     </descr>
     <logmsg dest='logndisplay'>vFlash Media device warning.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Warning</severity>
   </event>
   <event>
     <mask>
@@ -85159,7 +85159,7 @@ or an OS graceful shut-down occurred.</logmsg>
 
     </descr>
     <logmsg dest='logndisplay'>vFlash Media device information.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Normal</severity>
   </event>
   <event>
     <mask>
@@ -85480,7 +85480,7 @@ or an OS graceful shut-down occurred.</logmsg>
 
     </descr>
     <logmsg dest='logndisplay'>vFlash Media device is absent.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Warning</severity>
   </event>
   <event>
     <mask>
@@ -85804,7 +85804,7 @@ or an OS graceful shut-down occurred.</logmsg>
       Temperature has been above the warning or critical threshold level
 for a long enough period of time to be considered in a critical state.
     </logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Critical</severity>
   </event>
   <event>
     <mask>
@@ -86128,7 +86128,7 @@ for a long enough period of time to be considered in a critical state.
       Temperature has been above the warning or critical threshold level
 for a long enough period of time to be considered in a warning state.
     </logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Warning</severity>
   </event>
   <event>
     <mask>
@@ -86449,7 +86449,7 @@ for a long enough period of time to be considered in a warning state.
 
     </descr>
     <logmsg dest='logndisplay'>Fiber Channel failure or critical event.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Major</severity>
   </event>
   <event>
     <mask>
@@ -86770,7 +86770,7 @@ for a long enough period of time to be considered in a warning state.
 
     </descr>
     <logmsg dest='logndisplay'>Fiber Channel warning.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Warning</severity>
   </event>
   <event>
     <mask>
@@ -87091,7 +87091,7 @@ for a long enough period of time to be considered in a warning state.
 
     </descr>
     <logmsg dest='logndisplay'>Fiber Channel information.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Normal</severity>
   </event>
   <event>
     <mask>
@@ -87415,7 +87415,7 @@ for a long enough period of time to be considered in a warning state.
       Storage Management has detected a device independent error condition.
 There is no global status change associated with this trap.
     </logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Minor</severity>
   </event>
   <event>
     <mask>
@@ -87740,7 +87740,7 @@ There is no global status change associated with this trap.
 condition. There is no global status change associated with this
 trap.
     </logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Warning</severity>
   </event>
   <event>
     <mask>
@@ -88064,7 +88064,7 @@ trap.
       Storage Management Information.
 There is no global status change associated with this trap.
     </logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Normal</severity>
   </event>
   <event>
     <mask>
@@ -88385,7 +88385,7 @@ There is no global status change associated with this trap.
 
     </descr>
     <logmsg dest='logndisplay'>Fan failure.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Major</severity>
   </event>
   <event>
     <mask>
@@ -88706,7 +88706,7 @@ There is no global status change associated with this trap.
 
     </descr>
     <logmsg dest='logndisplay'>Fan warning.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Warning</severity>
   </event>
   <event>
     <mask>
@@ -89027,7 +89027,7 @@ There is no global status change associated with this trap.
 
     </descr>
     <logmsg dest='logndisplay'>Fan information.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Normal</severity>
   </event>
   <event>
     <mask>
@@ -89348,7 +89348,7 @@ There is no global status change associated with this trap.
 
     </descr>
     <logmsg dest='logndisplay'>Temperature probe failure.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Major</severity>
   </event>
   <event>
     <mask>
@@ -89669,7 +89669,7 @@ There is no global status change associated with this trap.
 
     </descr>
     <logmsg dest='logndisplay'>Temperature probe warning.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Warning</severity>
   </event>
   <event>
     <mask>
@@ -89990,7 +89990,7 @@ There is no global status change associated with this trap.
 
     </descr>
     <logmsg dest='logndisplay'>Temperature probe information.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Normal</severity>
   </event>
   <event>
     <mask>
@@ -90311,7 +90311,7 @@ There is no global status change associated with this trap.
 
     </descr>
     <logmsg dest='logndisplay'>Power supply failure.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Major</severity>
   </event>
   <event>
     <mask>
@@ -90632,7 +90632,7 @@ There is no global status change associated with this trap.
 
     </descr>
     <logmsg dest='logndisplay'>Power supply warning.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Warning</severity>
   </event>
   <event>
     <mask>
@@ -90953,7 +90953,7 @@ There is no global status change associated with this trap.
 
     </descr>
     <logmsg dest='logndisplay'>Power supply information.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Normal</severity>
   </event>
   <event>
     <mask>
@@ -91274,7 +91274,7 @@ There is no global status change associated with this trap.
 
     </descr>
     <logmsg dest='logndisplay'>Battery failure.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Major</severity>
   </event>
   <event>
     <mask>
@@ -91595,7 +91595,7 @@ There is no global status change associated with this trap.
 
     </descr>
     <logmsg dest='logndisplay'>Battery warning.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Warning</severity>
   </event>
   <event>
     <mask>
@@ -91916,7 +91916,7 @@ There is no global status change associated with this trap.
 
     </descr>
     <logmsg dest='logndisplay'>Battery information.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Normal</severity>
   </event>
   <event>
     <mask>
@@ -92237,7 +92237,7 @@ There is no global status change associated with this trap.
 
     </descr>
     <logmsg dest='logndisplay'>Controller failure.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Major</severity>
   </event>
   <event>
     <mask>
@@ -92558,7 +92558,7 @@ There is no global status change associated with this trap.
 
     </descr>
     <logmsg dest='logndisplay'>Controller warning.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Warning</severity>
   </event>
   <event>
     <mask>
@@ -92879,7 +92879,7 @@ There is no global status change associated with this trap.
 
     </descr>
     <logmsg dest='logndisplay'>Controller information.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Normal</severity>
   </event>
   <event>
     <mask>
@@ -93200,7 +93200,7 @@ There is no global status change associated with this trap.
 
     </descr>
     <logmsg dest='logndisplay'>Enclosure failure.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Major</severity>
   </event>
   <event>
     <mask>
@@ -93521,7 +93521,7 @@ There is no global status change associated with this trap.
 
     </descr>
     <logmsg dest='logndisplay'>Enclosure warning.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Warning</severity>
   </event>
   <event>
     <mask>
@@ -93842,7 +93842,7 @@ There is no global status change associated with this trap.
 
     </descr>
     <logmsg dest='logndisplay'>Enclosure information.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Normal</severity>
   </event>
   <event>
     <mask>
@@ -94163,7 +94163,7 @@ There is no global status change associated with this trap.
 
     </descr>
     <logmsg dest='logndisplay'>Physical disk failure.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Major</severity>
   </event>
   <event>
     <mask>
@@ -94484,7 +94484,7 @@ There is no global status change associated with this trap.
 
     </descr>
     <logmsg dest='logndisplay'>Physical disk warning.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Warning</severity>
   </event>
   <event>
     <mask>
@@ -94805,7 +94805,7 @@ There is no global status change associated with this trap.
 
     </descr>
     <logmsg dest='logndisplay'>Physical disk information.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Normal</severity>
   </event>
   <event>
     <mask>
@@ -95126,7 +95126,7 @@ There is no global status change associated with this trap.
 
     </descr>
     <logmsg dest='logndisplay'>Virtual disk failure.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Major</severity>
   </event>
   <event>
     <mask>
@@ -95447,7 +95447,7 @@ There is no global status change associated with this trap.
 
     </descr>
     <logmsg dest='logndisplay'>Virtual disk warning.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Warning</severity>
   </event>
   <event>
     <mask>
@@ -95768,7 +95768,7 @@ There is no global status change associated with this trap.
 
     </descr>
     <logmsg dest='logndisplay'>Virtual disk information.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Normal</severity>
   </event>
   <event>
     <mask>
@@ -96089,7 +96089,7 @@ There is no global status change associated with this trap.
 
     </descr>
     <logmsg dest='logndisplay'>iDRAC IP address has changed.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Normal</severity>
   </event>
   <event>
     <mask>
@@ -96410,7 +96410,7 @@ There is no global status change associated with this trap.
 
     </descr>
     <logmsg dest='logndisplay'>License failure.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Major</severity>
   </event>
   <event>
     <mask>
@@ -96731,7 +96731,7 @@ There is no global status change associated with this trap.
 
     </descr>
     <logmsg dest='logndisplay'>License warning.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Warning</severity>
   </event>
   <event>
     <mask>
@@ -97052,7 +97052,7 @@ There is no global status change associated with this trap.
 
     </descr>
     <logmsg dest='logndisplay'>License information.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Normal</severity>
   </event>
   <event>
     <mask>
@@ -97374,7 +97374,7 @@ There is no global status change associated with this trap.
     </descr>
     <logmsg dest='logndisplay'>Host is going through a power state change
 (powering on or powering off).</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Normal</severity>
   </event>
   <event>
     <mask>
@@ -97695,7 +97695,7 @@ There is no global status change associated with this trap.
 
     </descr>
     <logmsg dest='logndisplay'>Debug authorization failed.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Major</severity>
   </event>
   <event>
     <mask>
@@ -98016,7 +98016,7 @@ There is no global status change associated with this trap.
 
     </descr>
     <logmsg dest='logndisplay'>Debug authorized.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Warning</severity>
   </event>
   <event>
     <mask>
@@ -98337,7 +98337,7 @@ There is no global status change associated with this trap.
 
     </descr>
     <logmsg dest='logndisplay'>The iDRAC generated a test trap event in response to a user request.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Normal</severity>
   </event>
 
 <!-- Start of auto generated data from MIB: MIB-Dell-10900 -->
@@ -98727,7 +98727,7 @@ There is no global status change associated with this trap.
     <logmsg dest='logndisplay'>
       System monitoring alert from IT Assistant. Sent when a node's system monitoring counters has exceeded user defined critical threshold.
     </logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Critical</severity>
   </event>
   <event>
     <mask>
@@ -99005,7 +99005,7 @@ There is no global status change associated with this trap.
     <logmsg dest='logndisplay'>
       System monitoring alert from IT Assistant. Sent when a node's system monitoring counters has exceeded user defined warning threshold.
     </logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Warning</severity>
   </event>
   <event>
     <mask>
@@ -99283,7 +99283,7 @@ There is no global status change associated with this trap.
     <logmsg dest='logndisplay'>
       CPU monitoring alert from IT Assistant. Sent when a node's CPU utilization has exceeded user defined critical threshold.
     </logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Critical</severity>
   </event>
   <event>
     <mask>
@@ -99561,7 +99561,7 @@ There is no global status change associated with this trap.
     <logmsg dest='logndisplay'>
       CPU monitoring alert from IT Assistant. Sent when a node's CPU utilization has exceeded user defined warning threshold.
     </logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Warning</severity>
   </event>
   <event>
     <mask>
@@ -99839,7 +99839,7 @@ There is no global status change associated with this trap.
     <logmsg dest='logndisplay'>
       Memory monitoring alert from IT Assistant. Sent when a node's memory utilization has exceeded user defined critical threshold.
     </logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Critical</severity>
   </event>
   <event>
     <mask>
@@ -100117,7 +100117,7 @@ There is no global status change associated with this trap.
     <logmsg dest='logndisplay'>
       Memory monitoring alert from IT Assistant. Sent when a node's memory utilization has exceeded user defined warning threshold.
     </logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Warning</severity>
   </event>
   <event>
     <mask>
@@ -100395,7 +100395,7 @@ There is no global status change associated with this trap.
     <logmsg dest='logndisplay'>
       Network monitoring alert from IT Assistant. Sent when a node's NIC utilization has exceeded user defined critical threshold.
     </logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Critical</severity>
   </event>
   <event>
     <mask>
@@ -100673,7 +100673,7 @@ There is no global status change associated with this trap.
     <logmsg dest='logndisplay'>
       Network monitoring alert from IT Assistant. Sent when a node's NIC utilization has exceeded user defined warning threshold.
     </logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Warning</severity>
   </event>
   <event>
     <mask>
@@ -100951,7 +100951,7 @@ There is no global status change associated with this trap.
     <logmsg dest='logndisplay'>
       Physical disk monitoring alert from IT Assistant. Sent when a node's physical disk utilization has exceeded user defined critical threshold.
     </logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Critical</severity>
   </event>
   <event>
     <mask>
@@ -101229,7 +101229,7 @@ There is no global status change associated with this trap.
     <logmsg dest='logndisplay'>
       Physical disk monitoring alert from IT Assistant. Sent when a node's Physical disk utilization has exceeded user defined warning threshold.
     </logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Warning</severity>
   </event>
   <event>
     <mask>
@@ -101507,7 +101507,7 @@ There is no global status change associated with this trap.
     <logmsg dest='logndisplay'>
       Logical disk monitoring alert from IT Assistant. Sent when a node's logical disk utilization has exceeded user defined critical threshold.
     </logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Critical</severity>
   </event>
   <event>
     <mask>
@@ -101785,7 +101785,7 @@ There is no global status change associated with this trap.
     <logmsg dest='logndisplay'>
       Logical disk monitoring alert from IT Assistant. Sent when a node's Logical disk utilization has exceeded user defined warning threshold.
     </logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Warning</severity>
   </event>
   <event>
     <mask>
@@ -102063,7 +102063,7 @@ There is no global status change associated with this trap.
     <logmsg dest='logndisplay'>
       Power Management alert from IT Assistant. Sent when a node's power consumption has exceeded user defined critical threshold.
     </logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Critical</severity>
   </event>
   <event>
     <mask>
@@ -102341,7 +102341,7 @@ There is no global status change associated with this trap.
     <logmsg dest='logndisplay'>
       Power Management alert from IT Assistant. Sent when a node's power consumption has exceeded user defined warning threshold.
     </logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Warning</severity>
   </event>
   <event>
     <mask>
@@ -102628,7 +102628,7 @@ There is no global status change associated with this trap.
     <logmsg dest='logndisplay'>
       Power Management alert from IT Assistant. Sent when aggregate power consumption has exceeded user defined warning threshold.
     </logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Warning</severity>
   </event>
   <event>
     <mask>
@@ -102915,7 +102915,7 @@ There is no global status change associated with this trap.
     <logmsg dest='logndisplay'>
       Power Management alert from IT Assistant. Sent when aggregate power consumption has exceeded user defined critical threshold.
     </logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Critical</severity>
   </event>
 
 <!-- End of auto generated data from MIB: MIB-Dell-10900 -->
@@ -102987,7 +102987,7 @@ There is no global status change associated with this trap.
 			drsAlertPreviousStatus=%parm[#5]% 
 			drsAlertData=%parm[#6]%&lt;/p&gt;
 		</logmsg>
-	<severity>Indeterminate</severity>
+	<severity>Normal</severity>
 </event>
 <event>
 	<mask>
@@ -103056,7 +103056,7 @@ There is no global status change associated with this trap.
 			drsAlertPreviousStatus=%parm[#5]% 
 			drsAlertData=%parm[#6]%&lt;/p&gt;
 		</logmsg>
-	<severity>Indeterminate</severity>
+	<severity>Warning</severity>
 </event>
 <event>
 	<mask>
@@ -103125,7 +103125,7 @@ There is no global status change associated with this trap.
 			drsAlertPreviousStatus=%parm[#5]% 
 			drsAlertData=%parm[#6]%&lt;/p&gt;
 		</logmsg>
-	<severity>Indeterminate</severity>
+	<severity>Minor</severity>
 </event>
 <event>
 	<mask>
@@ -103194,7 +103194,7 @@ There is no global status change associated with this trap.
 			drsAlertPreviousStatus=%parm[#5]% 
 			drsAlertData=%parm[#6]%&lt;/p&gt;
 		</logmsg>
-	<severity>Indeterminate</severity>
+	<severity>Cleared</severity>
 </event>
 <event>
 	<mask>
@@ -103263,7 +103263,7 @@ There is no global status change associated with this trap.
 			drsAlertPreviousStatus=%parm[#5]% 
 			drsAlertData=%parm[#6]%&lt;/p&gt;
 		</logmsg>
-	<severity>Indeterminate</severity>
+	<severity>Warning</severity>
 </event>
 <event>
 	<mask>
@@ -103332,7 +103332,7 @@ There is no global status change associated with this trap.
 			drsAlertPreviousStatus=%parm[#5]% 
 			drsAlertData=%parm[#6]%&lt;/p&gt;
 		</logmsg>
-	<severity>Indeterminate</severity>
+	<severity>Normal</severity>
 </event>
 <event>
 	<mask>
@@ -103401,7 +103401,7 @@ There is no global status change associated with this trap.
 			drsAlertPreviousStatus=%parm[#5]% 
 			drsAlertData=%parm[#6]%&lt;/p&gt;
 		</logmsg>
-	<severity>Indeterminate</severity>
+	<severity>Minor</severity>
 </event>
 <event>
 	<mask>
@@ -103470,7 +103470,7 @@ There is no global status change associated with this trap.
 			drsAlertPreviousStatus=%parm[#5]% 
 			drsAlertData=%parm[#6]%&lt;/p&gt;
 		</logmsg>
-	<severity>Indeterminate</severity>
+	<severity>Minor</severity>
 </event>
 <event>
 	<mask>
@@ -103539,7 +103539,7 @@ There is no global status change associated with this trap.
 			drsAlertPreviousStatus=%parm[#5]% 
 			drsAlertData=%parm[#6]%&lt;/p&gt;
 		</logmsg>
-	<severity>Indeterminate</severity>
+	<severity>Cleared</severity>
 </event>
 <event>
 	<mask>
@@ -103608,7 +103608,7 @@ There is no global status change associated with this trap.
 			drsAlertPreviousStatus=%parm[#5]% 
 			drsAlertData=%parm[#6]%&lt;/p&gt;
 		</logmsg>
-	<severity>Indeterminate</severity>
+	<severity>Warning</severity>
 </event>
 <event>
 	<mask>
@@ -103677,7 +103677,7 @@ There is no global status change associated with this trap.
 			drsAlertPreviousStatus=%parm[#5]% 
 			drsAlertData=%parm[#6]%&lt;/p&gt;
 		</logmsg>
-	<severity>Indeterminate</severity>
+	<severity>Critical</severity>
 </event>
 <event>
 	<mask>
@@ -103746,7 +103746,7 @@ There is no global status change associated with this trap.
 			drsAlertPreviousStatus=%parm[#5]% 
 			drsAlertData=%parm[#6]%&lt;/p&gt;
 		</logmsg>
-	<severity>Indeterminate</severity>
+	<severity>Cleared</severity>
 </event>
 <event>
 	<mask>
@@ -103815,7 +103815,7 @@ There is no global status change associated with this trap.
 			drsAlertPreviousStatus=%parm[#5]% 
 			drsAlertData=%parm[#6]%&lt;/p&gt;
 		</logmsg>
-	<severity>Indeterminate</severity>
+	<severity>Warning</severity>
 </event>
 <event>
 	<mask>
@@ -103884,7 +103884,7 @@ There is no global status change associated with this trap.
 			drsAlertPreviousStatus=%parm[#5]% 
 			drsAlertData=%parm[#6]%&lt;/p&gt;
 		</logmsg>
-	<severity>Indeterminate</severity>
+	<severity>Critical</severity>
 </event>
 <event>
 	<mask>
@@ -103953,7 +103953,7 @@ There is no global status change associated with this trap.
 			drsAlertPreviousStatus=%parm[#5]% 
 			drsAlertData=%parm[#6]%&lt;/p&gt;
 		</logmsg>
-	<severity>Indeterminate</severity>
+	<severity>Warning</severity>
 </event>
 <event>
 	<mask>
@@ -104022,7 +104022,7 @@ There is no global status change associated with this trap.
 			drsAlertPreviousStatus=%parm[#5]% 
 			drsAlertData=%parm[#6]%&lt;/p&gt;
 		</logmsg>
-	<severity>Indeterminate</severity>
+	<severity>Critical</severity>
 </event>
 <event>
 	<mask>
@@ -104091,7 +104091,7 @@ There is no global status change associated with this trap.
 			drsAlertPreviousStatus=%parm[#5]% 
 			drsAlertData=%parm[#6]%&lt;/p&gt;
 		</logmsg>
-	<severity>Indeterminate</severity>
+	<severity>Warning</severity>
 </event>
 <event>
 	<mask>
@@ -104160,7 +104160,7 @@ There is no global status change associated with this trap.
 			drsAlertPreviousStatus=%parm[#5]% 
 			drsAlertData=%parm[#6]%&lt;/p&gt;
 		</logmsg>
-	<severity>Indeterminate</severity>
+	<severity>Minor</severity>
 </event>
 <event>
 	<mask>
@@ -104229,7 +104229,7 @@ There is no global status change associated with this trap.
 			drsAlertPreviousStatus=%parm[#5]% 
 			drsAlertData=%parm[#6]%&lt;/p&gt;
 		</logmsg>
-	<severity>Indeterminate</severity>
+	<severity>Minor</severity>
 </event>
 <event>
 	<mask>
@@ -104298,7 +104298,7 @@ There is no global status change associated with this trap.
 			drsAlertPreviousStatus=%parm[#5]% 
 			drsAlertData=%parm[#6]%&lt;/p&gt;
 		</logmsg>
-	<severity>Indeterminate</severity>
+	<severity>Cleared</severity>
 </event>
 <!-- End of auto generated data from MIB: DELL-RAC-MIB -->
 <!-- Start of auto generated data from MIB: INTEL-LAN-ADAPTERS-MIB -->
@@ -104985,7 +104985,7 @@ Online diagnostics might fail because of link loss or other hardware issues.&lt;
 
     </descr>
     <logmsg dest='logndisplay'>Test alert forwarded from OM Essentials.</logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Normal</severity>
   </event>
   <event>
     <mask>
@@ -105245,7 +105245,7 @@ Online diagnostics might fail because of link loss or other hardware issues.&lt;
     <logmsg dest='logndisplay'>
       System up message from OM Essentials. Sent when OM Essentials detects a device has come online.
     </logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Cleared</severity>
   </event>
   <event>
     <mask>
@@ -105505,7 +105505,7 @@ Online diagnostics might fail because of link loss or other hardware issues.&lt;
     <logmsg dest='logndisplay'>
       System down message from OM Essentials. Sent when OM Essentials detects a device has gone offline.
     </logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Major</severity>
   </event>
   <event>
     <mask>
@@ -105774,7 +105774,7 @@ Online diagnostics might fail because of link loss or other hardware issues.&lt;
     <logmsg dest='logndisplay'>
       Forwarded alert from OM Essentials. The event may have originated as an SNMP trap or CIM indication to the OM Essentials Console. The alert format is normalized.
     </logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Normal</severity>
   </event>
   <event>
     <mask>
@@ -106276,7 +106276,7 @@ Online diagnostics might fail because of link loss or other hardware issues.&lt;
     <logmsg dest='logndisplay'>
       System monitoring alert from Essentials. Sent when status of the remote device is Normal.
     </logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Normal</severity>
   </event>
   <event>
     <mask>
@@ -106527,7 +106527,7 @@ Online diagnostics might fail because of link loss or other hardware issues.&lt;
     <logmsg dest='logndisplay'>
       System monitoring alert from Essentials. Sent when status of the remote device is Warning.
     </logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Warning</severity>
   </event>
   <event>
     <mask>
@@ -106778,6 +106778,6 @@ Online diagnostics might fail because of link loss or other hardware issues.&lt;
     <logmsg dest='logndisplay'>
       System monitoring alert from Essentials. Sent when status of the remote device is Critical.
     </logmsg>
-    <severity>Indeterminate</severity>
+    <severity>Critical</severity>
   </event>
 </events>
