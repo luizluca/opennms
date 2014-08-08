@@ -2000,7 +2000,6 @@
   <event-file>events/Crossbeam.events.xml</event-file>
   <event-file>events/Dell.events.xml</event-file>
   <event-file>events/Dell-DRAC2.events.xml</event-file>
-  <event-file>events/DellRacHost.events.xml</event-file>
   <event-file>events/DellStorageManagement.events.xml</event-file>
   <event-file>events/DISMAN.events.xml</event-file>
   <event-file>events/DISMAN-PING.events.xml</event-file>
